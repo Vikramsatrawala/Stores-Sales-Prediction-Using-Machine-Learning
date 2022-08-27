@@ -12,5 +12,3 @@ i)	Multiple Linear Regression(MLR)
 ii)	Random Forest Regression
 
 iii)	XGBoost
-
-###  Result –  Random Forest Regression is giving 93% accurate result.
